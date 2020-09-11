@@ -45,3 +45,5 @@ int main()
     
     return 0;
 }
+
+//command : g++ apply.cpp -std=c++17
